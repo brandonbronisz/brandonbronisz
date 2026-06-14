@@ -1,11 +1,58 @@
-<h1 align="center">Hi 👋, I'm Brandon Bronisz</h1>
+# Hi, I'm Brandon Bronisz
 
-<h3 align="left">Connect with me:</h3>
+I'm a software builder based in Florida and the founder of [Leadpush](https://leadpush.io), where I work on product infrastructure, backend systems, and SaaS tools.
+
+My work tends to sit close to the parts of a product that need to be reliable, measurable, and fast: APIs, data workflows, internal tooling, automation, and the frontend surfaces that make those systems useful.
+
+## Current Focus
+
+- Building and improving SaaS infrastructure at [Leadpush](https://leadpush.io)
+- Developing performance-focused backend tools in PHP, Laravel, C, and MySQL
+- Creating practical Vue, Nuxt, and TypeScript interfaces for operational products
+- Exploring native extensions, data structures, and systems that reduce unnecessary work at scale
+
+## Selected Projects
+
+| Project | What it is |
+| --- | --- |
+| [php-bloom](https://github.com/brandonbronisz/php-bloom) | Native PHP 8 Bloom filter extension for compact probabilistic membership checks, with PHPT tests and benchmark coverage. |
+| [leadpush-php](https://github.com/LeadPush/leadpush-php) | Official PHP SDK for [Leadpush](https://leadpush.io/sdk). |
+| [leadpush-node](https://github.com/LeadPush/leadpush-node) | Official Node SDK for [Leadpush](https://leadpush.io/sdk). |
+
+## Tools I Work With
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+## How I Think About Engineering
+
+I like simple systems that do the work clearly and predictably. Good software should be easy to operate, easy to reason about, and honest about the tradeoffs it makes.
+
+The projects I spend the most time on usually involve one or more of these themes:
+
+- Turning repetitive business workflows into dependable software
+- Making backend paths faster without making the system harder to maintain
+- Designing APIs and data models that can survive real product usage
+- Building frontend tools that help teams move quickly without hiding important detail
+
+## Connect
+
+- Website: [leadpush.io](https://leadpush.io)
+- GitHub: [@brandonbronisz](https://github.com/brandonbronisz)
+- Linkedin: [Brandon Bronisz](https://www.linkedin.com/in/brandon-bronisz)
+- Instagram: [@programmer_brandon](https://instagram.com/programmer_brandon)
+
+---
+
 <p align="left">
-<a href="https://instagram.com/programmer_brandon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmer_brandon" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonbronisz&layout=compact&hide_border=true" alt="Top languages for Brandon Bronisz" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonbronisz&show_icons=true&locale=en&layout=compact" alt="brandonbronisz" /></p>
