@@ -15,7 +15,7 @@ My work tends to sit close to the parts of a product that need to be reliable, m
 
 | Project | What it is |
 | --- | --- |
-| [php-bloom](https://github.com/brandonbronisz/php-bloom) | Native PHP 8 Bloom filter extension for compact probabilistic membership checks, with PHPT tests and benchmark coverage. |
+| [php-bloom](https://github.com/brandonbronisz/php-bloom) | Native PHP 8 Bloom filter extension for compact probabilistic membership checks |
 | [leadpush-php](https://github.com/LeadPush/leadpush-php) | Official PHP SDK for [Leadpush](https://leadpush.io/sdk). |
 | [leadpush-node](https://github.com/LeadPush/leadpush-node) | Official Node SDK for [Leadpush](https://leadpush.io/sdk). |
 
