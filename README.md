@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Bronisz
 
-I'm a software builder based in Florida and the founder of [Leadpush](https://leadpush.io), where I work on product infrastructure, backend systems, and SaaS tools.
+I'm a software engineer based in Florida and the founder of [Leadpush](https://leadpush.io), where I work on product infrastructure, backend systems, and SaaS tools.
 
 My work tends to sit close to the parts of a product that need to be reliable, measurable, and fast: APIs, data workflows, internal tooling, automation, and the frontend surfaces that make those systems useful.
 
