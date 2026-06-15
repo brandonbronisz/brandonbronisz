@@ -7,7 +7,7 @@ My work tends to sit close to the parts of a product that need to be reliable, m
 ## Current Focus
 
 - Building and improving SaaS infrastructure at [Leadpush](https://leadpush.io)
-- Developing performance-focused backend tools in PHP, Laravel, C, and MySQL
+- Developing performance-focused backend tools in PHP, Laravel, C, and Node
 - Creating practical Vue, Nuxt, and TypeScript interfaces for operational products
 - Exploring native extensions, data structures, and systems that reduce unnecessary work at scale
 
